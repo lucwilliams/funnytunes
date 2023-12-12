@@ -10,14 +10,6 @@
   <li>backports.pbkdf2</li>
   <li>cryptography</li>
 </ul>
-<h3>Features</h3>
-<ul>
-  <li>Pillow</li>
-  <li>Requests</li>
-  <li>BeautifulSoup4</li>
-  <li>backports.pbkdf2</li>
-  <li>cryptography</li>
-</ul>
 <div align="center">
   <img width="800" alt="Main" src="https://github.com/lucwilliams/funnytunes/assets/76681904/b3e9a98a-c2ff-47a8-9878-9364254fdedb">
   <p>Main page including top artists, songs and genres</p>
